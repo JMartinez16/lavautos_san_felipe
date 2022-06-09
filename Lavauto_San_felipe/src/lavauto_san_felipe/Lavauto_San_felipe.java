@@ -6,7 +6,7 @@ package lavauto_san_felipe;
 
 /**
  *
- * @author Jota
+ * @author Jota Martinez
  */
 public class Lavauto_San_felipe {
 
